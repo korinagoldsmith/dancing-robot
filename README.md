@@ -4,6 +4,9 @@ During exam season or any stressful period, it's easy to feel overwhelmed. Happy
 
 <img width="535" alt="Screenshot 2024-11-13 at 7 13 40 PM" src="https://github.com/user-attachments/assets/ee84e9f5-8607-422b-8395-24a189bf1065">
 
+## Devpost 
+https://devpost.com/software/happy-feet-ak9cmo
+
 ## Features
 Fun Dances: Performs a variety of dance moves, including the classic "stanky leg."
 Easy-to-Use: Simple setup that brings a joyful distraction when you need it most.
