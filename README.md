@@ -17,7 +17,7 @@ Power Supply: Servos and other components are connected through a breadboard to 
 Programming: The robot’s dance moves are programmed using Arduino code and C++, setting up specific angles for the servos to create fun and dynamic movements.
 
 ## Initial Prototype
-<img width="427" alt="Screenshot 2024-11-13 at 7 14 23 PM" src="https://github.com/user-attachments/assets/7ca02605-4455-40a8-b267-c9e68c82ed83">
+<img width="427" alt="Screenshot 2024-11-13 at 7 14 23 PM" src="https://github.com/user-attachments/assets/7ca02605-4455-40a8-b267-c9e68c82ed83"> \n
 Problems: the bread board made the top of the robot too heavy so we had to find a way to connect all of the hardware without throwing the robot off balance.
 
 ## The Process
